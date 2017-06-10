@@ -17,6 +17,7 @@
 		font: inherit;
 		vertical-align: baseline;
 		text-align: center;
+		display: inline-block;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -25,6 +26,10 @@
 
 	body {
 		line-height: 1;
+	}
+
+	h4 {
+		text-align: center;
 	}
 
 	ol, ul {
